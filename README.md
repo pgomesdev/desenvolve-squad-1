@@ -3,7 +3,7 @@
 ## Integrantes
 <<<<<<< HEAD
 
-[Lucas Matheus] (https://github.com/LucasMatheus12)
+[Lucas Matheus] (https://github.com/LucasMatheus12 )
 =======
 [Pedro Gomes](https://github.com/pgomesdev)
 >>>>>>> main
