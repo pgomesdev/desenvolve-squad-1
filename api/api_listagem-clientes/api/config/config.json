@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "zF@5QZ@mDAw!Jeh",
+    "database": "api_clientes",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "zF@5QZ@mDAw!Jeh",
+    "database": "api_clientes",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "zF@5QZ@mDAw!Jeh",
+    "database": "api_clientes",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
